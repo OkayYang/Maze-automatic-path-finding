@@ -1,3 +1,5 @@
+package yang.mian;
+
 public class Cell {
     private int point_x;
     private int point_y;

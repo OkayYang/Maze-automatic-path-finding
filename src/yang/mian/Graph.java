@@ -1,3 +1,5 @@
+package yang.mian;
+
 public class Graph {
     private int begin_x;
     private int begin_y;

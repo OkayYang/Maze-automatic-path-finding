@@ -1,3 +1,8 @@
+package yang.gui;
+
+import yang.mian.*;
+
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
